@@ -4,7 +4,7 @@
     <PathDelim Value="\"/>
     <Version Value="12"/>
     <BuildModes Active="Default"/>
-    <Units Count="7">
+    <Units Count="8">
       <Unit0>
         <Filename Value="project1.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -22,7 +22,7 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="44"/>
+        <TopLine Value="26"/>
         <CursorPos X="33" Y="58"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
@@ -64,8 +64,17 @@
         <TopLine Value="85"/>
         <UsageCount Value="10"/>
       </Unit6>
+      <Unit7>
+        <Filename Value="C:\laz_test\fpcsrc\packages\fcl-extra\src\fileinfo.pp"/>
+        <UnitName Value="FileInfo"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="257"/>
+        <CursorPos X="3" Y="51"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit7>
     </Units>
-    <JumpHistory Count="7" HistoryIndex="6">
+    <JumpHistory Count="8" HistoryIndex="7">
       <Position1>
         <Filename Value="unit1.pas"/>
         <Caret Line="59" Column="31" TopLine="28"/>
@@ -94,6 +103,10 @@
         <Filename Value="unit1.pas"/>
         <Caret Line="62" Column="13" TopLine="44"/>
       </Position7>
+      <Position8>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="58" Column="33" TopLine="44"/>
+      </Position8>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>

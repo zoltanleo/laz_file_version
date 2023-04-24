@@ -19,11 +19,11 @@
       <AutoIncrementBuild Value="True"/>
       <MajorVersionNr Value="2"/>
       <MinorVersionNr Value="4"/>
-      <RevisionNr Value="9"/>
-      <BuildNr Value="18"/>
+      <RevisionNr Value="10"/>
+      <BuildNr Value="20"/>
       <Language Value="0419"/>
       <Attributes pvaDebug="True"/>
-      <StringTable ProductName="My cool project ®" ProductVersion="2.4.9.15"/>
+      <StringTable Comments="это комменты" CompanyName="это нейм компании" FileDescription="это описание файла" InternalName="какой-то внутренний нейм" LegalCopyright="легальный копирайт :)" LegalTrademarks="торговая марка типа гуччи" OriginalFilename="оригинальный файлнейм" ProductName="My cool project ®" ProductVersion="2.4"/>
     </VersionInfo>
     <BuildModes Count="1">
       <Item1 Name="Default" Default="True"/>
